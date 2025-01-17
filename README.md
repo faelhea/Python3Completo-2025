@@ -20,5 +20,5 @@ Ubuntu 22 - Instalação básica do Python e o VSCode.
 2 - pip -V
 
 #Ambiente novo Curso
-
+data do ultimo update - 2025-01-16
 
